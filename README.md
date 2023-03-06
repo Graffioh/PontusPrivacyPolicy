@@ -5,7 +5,7 @@ At Pontus, we are committed to protecting your privacy and the confidentiality o
 ## Collection of Information
 We collect certain data that is necessary for the proper functioning of the Pontus app, including your device's model, operating system version, and app version. We also collect usage data, such as the features you access and how you use them. This information is collected through cookies and other similar technologies.
 
-## Use of Information
+## Use of information
 We use the data collected to operate and improve the Pontus app, including troubleshooting and developing new features. We may also use this information to personalize your experience, provide customer support, and communicate with you regarding important updates or changes to the app.
 
 ## Sharing of Information
